@@ -1,0 +1,15 @@
+{
+  "repository": "module-music-projects-dart-mobile",
+  "capabilityKey": "liberusoftware/music-projects",
+  "presentation": "dart-mobile",
+  "package": "module_music_projects_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/music/nextjs/projects.md",
+  "presentationPlan": "projects/music/features/projects.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "music"
+  ]
+}
